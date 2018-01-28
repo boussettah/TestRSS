@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireRSSParser (2.0.1):
+    - Alamofire
+  - Kingfisher (4.6.1)
+  - NVActivityIndicatorView (3.6.1)
+  - TTGSnackbar (1.7.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4.0)
+  - AlamofireRSSParser (~> 2.0.1)
+  - Kingfisher
+  - NVActivityIndicatorView (~> 3.6.1)
+  - TTGSnackbar
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireRSSParser: 86243cd156b94b9d97d8f915fa44a0f15bd1bfb7
+  Kingfisher: 1f9157d9c02b380cbd0b7cc890161195164eb634
+  NVActivityIndicatorView: 9f52a7f84bf5c6a798722c450fe3c198e01c56ed
+  TTGSnackbar: 26e9c1f842269d0eeae8c51f7d8cbea669d492f1
+
+PODFILE CHECKSUM: 5b03c7935ad656db0a7d2e6a76e3cdab29556af6
+
+COCOAPODS: 1.2.1

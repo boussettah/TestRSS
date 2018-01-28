@@ -1,0 +1,44 @@
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Actu : Toute l'actualité sur Le Monde.fr.</title>
+        <description>
+            Actu - Découvrez gratuitement tous les articles, les vidéos et les infographies de la rubrique Actu sur Le Monde.fr.
+        </description>
+        <copyright>Copyright Le Monde.fr</copyright>
+        <link>http://www.lemonde.fr/m-actu/rss_full.xml</link>
+        <atom:link href="http://www.lemonde.fr/m-actu/rss_full.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 28 Jan 2018 22:18:57 +0100</pubDate>
+        <image>
+            <url>
+                http://www.lemonde.fr/medias/web/img/export/logo_lmfr_90x20_export.png
+            </url>
+            <title>Actu : Toute l'actualité sur Le Monde.fr.</title>
+            <link>http://www.lemonde.fr/m-actu/rss_full.xml</link>
+        </image>
+        <item>
+            <link>
+                http://www.lemonde.fr/m-actu/article/2018/01/28/justin-timberlake-ne-pour-le-succes_5248218_4497186.html
+            </link>
+            <title>Justin Timberlake, né pour le succès</title>
+            <description>
+                Enfant-star de Disney, meneur d’un boys band avant de triompher en solo, Justin Timberlake s’impose désormais au cinéma où il joue dans le dernier Woody Allen, « Wonder Wheel ».
+            </description>
+            <pubDate>Sun, 28 Jan 2018 06:41:00 +0100</pubDate>
+            <guid isPermaLink="true">http://www.lemonde.fr/tiny/5248218/</guid>
+            <enclosure url="http://s1.lemde.fr/image/2018/01/28/644x322/5248215_3_06dc_la-carriere-de-justin-timberlake-37-ans-ne_0c8006cbfd753d5ecbbcf45106943a7b.jpg" type="image/jpeg" length="40663"/>
+        </item>
+        <item>
+            <link>
+                http://www.lemonde.fr/m-actu-chroniques/article/2018/01/19/bff-ensemble-c-est-tout_5243914_4573473.html
+            </link>
+            <title>#bff, ensemble, c’est tout</title>
+            <description>
+                Les accros des réseaux sociaux ne cessent de mettre en scène leur vie à coups de hashtags et de selfies, lançant la tendance (ou pas). Cette semaine, l’amitié pour toujours.
+            </description>
+            <pubDate>Fri, 19 Jan 2018 10:32:13 +0100</pubDate>
+            <guid isPermaLink="true">http://www.lemonde.fr/tiny/5243914/</guid>
+            <enclosure url="http://s2.lemde.fr/image/2018/01/19/644x322/5243912_3_ff2b_2018-01-03-158ccb8-2018010645-0-2072943497post-w_34cbf375283ccb317a37a206acd8ff3d.jpg" type="image/jpeg" length="61364"/>
+        </item>
+    </channel>
+</rss>

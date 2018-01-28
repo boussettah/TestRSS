@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  testRSS
+
+  Created by hager boussetta on 26/01/2018.
+  Copyright © 2018 hager boussetta. All rights reserved.
+*/
+
+// Commons Messages
+"commonMessagePullToRefresh" = "Tirer pour rafraichir";
+
+// Commons Error
+"commonErrorAnErrorOccur"="Une erreur est survenue";
+"commonErrorUnableToGetData"="Impossible de recupérer les données";
